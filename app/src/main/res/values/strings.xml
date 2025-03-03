@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Podcasts</string>
+    <string name="str_podcast">Podcast</string>
+    <string name="str_favourited">Favourited</string>
+    <string name="str_favourite">Favourite</string>
+    <string name="str_back">Back</string>
+</resources>
